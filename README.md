@@ -1,3 +1,44 @@
+# Manual de instalação:
+
+
+
+
+Abrir CMD e navegar até a pasta "ninjasom"; ou
+
+Botão direito sobre a pasta do projeto "ninjasom" => abrir cmd;
+
+digitar no cmd : npm install
+
+após instalação digitar no cmd: yarn start
+
+projeto abrirá na porta 3000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
