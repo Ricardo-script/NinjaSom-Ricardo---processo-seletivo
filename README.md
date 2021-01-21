@@ -1,7 +1,11 @@
 # Manual de instalação:
 
+Fiz um deploy do projeto para poder visualizar ele rodando:  https://ricardo-ninjasom-teste.herokuapp.com;
 
 
+------------------------------------------------------------------------------------------------------------------
+
+No caso de instalar o projeto na maquina:
 
 Abrir CMD e navegar até a pasta "ninjasom"; ou
 
